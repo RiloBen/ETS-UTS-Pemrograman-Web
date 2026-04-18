@@ -1,0 +1,9 @@
+.DS_Store
+Thumbs.db
+error_log
+php_errors.log
+.vscode/
+.idea/
+*.zip
+*.rar
+*.7z
